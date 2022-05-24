@@ -1,12 +1,14 @@
-## Hi there 👋
+## Welcome to the **DEEPSPACE Metaverse**!
+DEEPSPACE is a Play-to-Earn space multiverse exploration strategy game!
 
-<!--
+Earn passive income from holding $DPS, trading proprietary, upgradeable, smart NFTs, and taking risks as you explore DEEPSPACE with your fleet of ships!
 
-**Here are some ideas to get you started:**
+Prepare to explore, harvest, and fight your way through the DEEPSPACE universe!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Learn more at: https://deepspace.game
+
+------------
+## Bug Bounty Program
+See a bug with our code?
+Check out our Bug Bounty program with Immunefi at: https://dps.space/bounty
+Let us know at https://feedback.deepspace.game
